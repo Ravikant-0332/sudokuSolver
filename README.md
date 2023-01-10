@@ -1,4 +1,4 @@
-# sudukoSolver
+# sudokuSolver
 A simple implementaion of suduko solver using recursion with backtracking, along with that pygame is used to create basic ui.
 
 Direction to Use.
